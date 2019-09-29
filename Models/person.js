@@ -1,6 +1,6 @@
 const model = { 
-    age : 21,
-    name : 'brendon'
+    age : 100,
+    name : 'foo'
 }
 
 module.exports = model;
